@@ -1,0 +1,27 @@
+
+Melodic Version 3.14
+
+Melodic results will be in /projects/niblab/data/HCP_staging/HDMZ.ica
+
+Create mask ... done
+Randomising input file order
+Reading data file /projects/niblab/data/HCP_staging/subjects/169747/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Estimating data smoothness ...  done 
+  Removing mean image ... done
+  Normalising by voxel-wise variance ... done
+Reading data file /projects/niblab/data/HCP_staging/subjects/116524/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Removing mean image ... done
+  Normalising by voxel-wise variance ... done
+Reading data file /projects/niblab/data/HCP_staging/subjects/856463/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Removing mean image ... done
+  Normalising by voxel-wise variance ... done
+Reading data file /projects/niblab/data/HCP_staging/subjects/671855/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Removing mean image ... done
+  Normalising by voxel-wise variance ... done
+  Reducing data matrix to a  2399 dimensional subspace 
+Reading data file /projects/niblab/data/HCP_staging/subjects/169444/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Removing mean image ... done
+  Normalising by voxel-wise variance ... done
+Reading data file /projects/niblab/data/HCP_staging/subjects/833249/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Removing mean image ... done
+  Normalising by voxel-wise variance ...

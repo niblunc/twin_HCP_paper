@@ -1,0 +1,14 @@
+
+Melodic Version 3.14
+
+Melodic results will be in /projects/niblab/data/HCP_staging/twin.ica
+
+Create mask ... done
+Randomising input file order
+Reading data file /projects/niblab/data/HCP_staging/subjects/506234/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Estimating data smoothness ...  done 
+  Removing mean image ... done
+  Normalising by voxel-wise variance ... done
+Reading data file /projects/niblab/data/HCP_staging/subjects/141826/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean  ...  done
+  Removing mean image ... done
+  Normalising by voxel-wise variance ...

@@ -1,0 +1,4 @@
+/projects/niblab/data/HCP_staging/subjects/100307/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean.nii.gz
+/projects/niblab/data/HCP_staging/subjects/100408/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean.nii.gz
+/projects/niblab/data/HCP_staging/subjects/101006/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean.nii.gz
+/projects/niblab/data/HCP_staging/subjects/102311/MNINonLinear/Results/rfMRI_REST1_RL/rfMRI_REST1_RL_hp2000_clean.nii.gz

@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+#SBATCH --job-name=HD_heri
+#SBATCH --output=HD_heri.output
+#SBATCH --error=HD_heri.error
+#SBATCH -p batch
+#SBATCH -t 3:00:00
+#SBATCH -n 1
+#module load matlab/2015b
+# Run your executable
+/projects/niblab/modules/software/matlab/2015aSP1/bin/matlab -nodisplay -nosplash -nodesktop -r "run('/projects/niblab/scripts/twin/hertibility/heritability.m')" 
